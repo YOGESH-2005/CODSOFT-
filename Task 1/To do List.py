@@ -5,7 +5,7 @@ import json
 class todolist:
     def __init__(self,root):
         self.root =root
-        self.root.title("To Do List  By Naga Vamsi R")
+        self.root.title("To Do List  By  Yogesh c")
         self.tasks = self.load_tasks()
         
 
