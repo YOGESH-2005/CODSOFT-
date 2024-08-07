@@ -1,0 +1,1 @@
+I am developing a to-do list application for my internship project. It is a GUI-based application and this is the first task assigned to me during my internship at CODSOFT.
